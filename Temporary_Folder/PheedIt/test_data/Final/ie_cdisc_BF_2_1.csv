@@ -1,0 +1,27 @@
+ID;text;sdtm
+STUDY;STUDY Study Name;STUDYID
+MODULE;MODULE ;DOMAIN
+VISIT;VISIT Visit;VISIT
+PATNO;PATNO Patient No.;SUBJID
+PAGE_NO;PAGE NO Page No. (System);DROP
+REP_NO;REP NO Repeat No.;IETESTCD
+RAND_N;RAND N Was the patient enrolled/randomized in the study?;DROP
+IEYN_N;IEYN N Did the patient meet all eligibility criteria?;DROP
+IESTMO_N;IESTMO N Month;IEDTC2
+IEORRES_N;IEORRES N Answer YES if the criterion is met;DROP
+DSSTMO_N;DSSTMO N Month;DSSTDTC2
+_CLIENT_TIMESTAMP; CLIENT TIMESTAMP PheedIt Client Side Time Stamp;DROP
+LAST_UPDATE;LAST UPDATE Last Update;DROP
+IESTMO;IESTMO Month;DROP
+IESTDYR;IESTDYR Year;DROP
+IEORRES;IEORRES Answer YES if the criterion is met;IEORRES
+IEYN;IEYN Did the patient meet all eligibility criteria?;DSTERM1
+IECOM;IECOM Comment if the patient did not meet all eligibility criteria:;COVAL
+RAND;RAND Was the patient enrolled/randomized in the study?;DSTERM2
+DSSTMO;DSSTMO Month;DROP
+IETESTCD;IETESTCD Criterion Identifier;IESPID
+DSSTDY;DSSTDY Day;DSSTDTC1
+DSSTYR;DSSTYR Year;DSSTDTC3
+IESTDY;IESTDY Day;IEDTC1
+IESTYR;IESTYR Year;IEDTC3
+SITE_NAME;SITE NAME Site Name;SITEID

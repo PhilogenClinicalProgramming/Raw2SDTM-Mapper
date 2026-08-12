@@ -1,0 +1,25 @@
+ID;text;sdtm
+STUDY;STUDY Study Name;STUDYID
+MODULE;MODULE ;DOMAIN
+VISIT;VISIT Visit;VISIT
+PATNO;PATNO Patient No.;SUBJID
+PAGE_NO;PAGE NO Page No. (System);DROP
+REP_NO;REP NO Repeat No.;DROP
+IEYN_N;IEYN N Did the patient meet all eligibility criteria?;DROP
+IEORRES_N;IEORRES N Answer YES if the criterion is met;DROP
+IEENROLYN_N;IEENROLYN N Patient Enrolled;DROP
+ALLOC_2_IEORRES_N;ALLOC 2 IEORRES N Allocation Cohort;DROP
+_CLIENT_TIMESTAMP; CLIENT TIMESTAMP PheedIt Client Side Time Stamp;DROP
+LAST_UPDATE;LAST UPDATE Last Update;DROP
+ALLOC_2_IEORRES;ALLOC 2 IEORRES Allocation Cohort;DMCOHORT
+IESPID;IESPID Criterion Identifier;DROP
+IEORRES;IEORRES Answer YES if the criterion is met;DROP
+IEYN;IEYN Did the patient meet all eligibility criteria?;DROP
+IECOVAL;IECOVAL Eligibility Comment;DROP
+IEENROLYN;IEENROLYN Patient Enrolled;DROP
+NA_1;NA 1 NA;DROP
+NA_2;NA 2 NA;DROP
+NA_3;NA 3 NA;DROP
+ENRDAT;ENRDAT Enrollment Date;DROP
+IEDAT;IEDAT Assessment Date;DROP
+SITE_NAME;SITE NAME Site Name;SITEID

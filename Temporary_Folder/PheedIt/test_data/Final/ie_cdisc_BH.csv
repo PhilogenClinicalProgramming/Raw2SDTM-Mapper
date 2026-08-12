@@ -1,0 +1,34 @@
+ID;text;sdtm
+STUDY;STUDY Study Name;STUDYID
+MODULE;MODULE ;DOMAIN
+VISIT;VISIT Visit;VISIT
+PATNO;PATNO Patient No.;SUBJID
+PAGE_NO;PAGE NO Page No. (System);DROP
+REP_NO;REP NO Repeat No.;IETESTCD
+STRATA_2_N;STRATA 2 N Steroid status;DROP
+STRATA_N;STRATA N post-surgica therapy;DROP
+IEYN_N;IEYN N Did the patient meet all eligibility criteria?;DROP
+IESTMO_N;IESTMO N Month;IEDTC2
+IEORRES_N;IEORRES N Answer YES if the criterion is met;DROP
+IEENROLYN_N;IEENROLYN N Patient Enrolled;DROP
+ENRMO_N;ENRMO N Month of Enrollment Date;DSSTDTC2
+ALLOC_IEORRES_N;ALLOC IEORRES N Patient Allocation;DROP
+_CLIENT_TIMESTAMP; CLIENT TIMESTAMP PheedIt Client Side Time Stamp;DROP
+LAST_UPDATE;LAST UPDATE Last Update;DROP
+IESTMO;IESTMO Month;DROP
+IESTDYR;IESTDYR Year;DROP
+IESPID;IESPID Criterion Identifier;IESPID
+IEORRES;IEORRES Answer YES if the criterion is met;IEORRES1
+NA_1;NA 1 NA;IEORRES2
+IEYN;IEYN Did the patient meet all eligibility criteria?;DSTERM1
+IECOVAL;IECOVAL Eligibility Comment;COVAL
+IEENROLYN;IEENROLYN Patient Enrolled;DSTERM2
+ALLOC_IEORRES;ALLOC IEORRES Patient Allocation;DROP
+ENRMO;ENRMO Month of Enrollment Date;DROP
+STRATA_2;STRATA 2 Steroid status;DROP
+STRATA;STRATA post-surgica therapy;DROP
+ENRDY;ENRDY Day of Enrollment Date;DSSTDTC1
+ENRYR;ENRYR Year of Enrollment Date;DSSTDTC3
+IESTDY;IESTDY Day;IEDTC1
+IESTYR;IESTYR Year;IEDTC3
+SITE_NAME;SITE NAME Site Name;SITEID
