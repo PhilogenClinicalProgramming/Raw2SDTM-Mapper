@@ -1,0 +1,41 @@
+ID;text;sdtm
+STUDY;STUDY Study Name;STUDYID
+MODULE;MODULE ;DOMAIN
+VISIT;VISIT Visit;VISIT
+PATNO;PATNO Patient No.;SUBJID
+PAGE_NO;PAGE NO Page No. (System);DROP
+REP_NO;REP NO Repeat No.;DROP
+TUHISTMO_N;TUHISTMO N Month of histological or cytological confirmation;DROP
+TUHIST_N;TUHIST N HISTOPATHOLOGICAL OR CYTOLOGICAL CONFIRMATION;DROP
+STRATA2_N;STRATA2 N Stage;DROP
+STRATA_N;STRATA N post-surgica therapy;DROP
+RAND_N;RAND N Was the patient enrolled/randomized in the study?;DROP
+IEYN_N;IEYN N Did the patient meet all eligibility criteria?;DROP
+IESTMO_N;IESTMO N Month;DROP
+IEORRES_N;IEORRES N Answer YES if the criterion is met;DROP
+DSSTMO_N;DSSTMO N Month;DROP
+_CLIENT_TIMESTAMP; CLIENT TIMESTAMP PheedIt Client Side Time Stamp;DROP
+LAST_UPDATE;LAST UPDATE Last Update;DROP
+STRATA;STRATA post-surgica therapy;STRATA
+STRATAOTH;STRATAOTH Other;STRATAOTH
+STRATA2;STRATA2 Stage;STRATA2
+TUHIST;TUHIST HISTOPATHOLOGICAL OR CYTOLOGICAL CONFIRMATION;TUHIST
+TUHISTMO;TUHISTMO Month of histological or cytological confirmation;TUHISTMO
+TUHISTTUNO;TUHISTTUNO Lesion Identifier (s);TUHISTTUNO
+IESTMO;IESTMO Month;DROP
+IESPID;IESPID Criterion Identifier;DROP
+IEORRES;IEORRES Answer YES if the criterion is met;DROP
+NA_1;NA 1 NA;DROP
+NA_2;NA 2 NA;DROP
+NA_3;NA 3 NA;DROP
+IEYN;IEYN Did the patient meet all eligibility criteria?;DROP
+IECOM;IECOM Comment if the patient did not meet all eligibility criteria:;DROP
+RAND;RAND Was the patient enrolled/randomized in the study?;DROP
+DSSTMO;DSSTMO Month;DROP
+DSSTDY;DSSTDY Day;DROP
+DSSTYR;DSSTYR Year;DROP
+IESTDY;IESTDY Day;DROP
+IESTYR;IESTYR Year;DROP
+TUHISTDY;TUHISTDY Day of histological or cytological confirmation;TUHISTDY
+TUHISTYR;TUHISTYR Year of histological or cytological confirmation;TUHISTYR
+SITE_NAME;SITE NAME Site Name;DROP
